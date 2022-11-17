@@ -2,7 +2,7 @@
 
 ### By Team Big Time Pass Rush
 
-![Big Time Rush](https://media.tenor.com/zAHybP22DBAAAAAC/big-time-rush.gif)
+![Big Time Rush](https://media2.giphy.com/media/xUOrwaa0VXclrw405a/giphy.gif)
 
 The gang evaluates linemen
 
