@@ -13,7 +13,7 @@ The purpose of this project is to evaluate linemen on passing plays. We utilize 
 ## Model Visualizations
 
 ### Binary Classifier
-![image](https://user-images.githubusercontent.com/109098360/212198492-bf6bba4d-5b06-451d-9b29-c217becc5b66.png)
+![image](https://user-images.githubusercontent.com/109098360/212198760-e3408bed-4aa0-40d8-aa97-2090f34ede18.png)
 ![download](https://user-images.githubusercontent.com/109098360/212161872-dae8dffd-829f-4d2e-b49d-f2becbfb68a5.png)
 
 ### Multi-Class Classifier
