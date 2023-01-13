@@ -17,7 +17,7 @@ The purpose of this project is to evaluate linemen on passing plays. We utilize 
 ![download](https://user-images.githubusercontent.com/109098360/212161872-dae8dffd-829f-4d2e-b49d-f2becbfb68a5.png)
 
 ### Multi-Class Classifier
-![download](https://user-images.githubusercontent.com/109098360/212161945-80c22d60-24f2-409c-abde-38b8a7fc71f0.png)
+![download](https://user-images.githubusercontent.com/109098360/212377625-b630dfe4-b8c7-4bca-8bc3-93b2ef9a7473.png)
 ![download](https://user-images.githubusercontent.com/109098360/212161967-37c5a502-3a08-4158-ba72-5a1e6ab0330f.png)
 
 ## Contributors
